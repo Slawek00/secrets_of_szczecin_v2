@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459426670940",
+    "project_id": "secretsofszczecin",
+    "storage_bucket": "secretsofszczecin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459426670940:android:2b6105490cf6ccc6b23999",
+        "android_client_info": {
+          "package_name": "com.example.secrets_of_szczecin_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB35AzgvwmtvH9g4FYUboCRTkYBaCGcPI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
